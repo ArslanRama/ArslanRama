@@ -47,11 +47,10 @@ So I started my career as a language teacher but worked as;
 
 <br />
 
-<br />
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArslanRama&include_all_commits=true&count_private=true&hide=contribs&theme=dark&show_icons=true" alt="Aslan's Github Stats" />
-</p>
-<br />
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arslan-rama&include_all_commits=true&count_private=true&hide=contribs&theme=dark&show_icons=true" alt="Aslan's Github Stats" />
+</p> -->
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aslan-ramazan-arslan-42447780/">
