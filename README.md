@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">
-    <img alt="Aslan" src="http://www.xmlinfo.com/wp-content/uploads/2020/01/web-programming-languages-668x334.png" height="300px" />
+    <img alt="Aslan" src="http://www.xmlinfo.com/wp-content/uploads/2020/01/web-programming-languages-300x150.png" height="150px" />
     <br>Aslan<br/>
     Full Stack Web Developer | React 
 </h1>
