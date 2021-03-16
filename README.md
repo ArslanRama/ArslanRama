@@ -18,9 +18,10 @@ Here are some ideas to get you started:
     <br>Aslan<br/>
     Full Stack Web Developer | React 
 </h1>
-## :bookmark: About me
-Hi there, :wave:
-I am a full stack web developer trying to be better at it since I had a change of career in 2020.  
+
+#About me
+# Hi there, :wave:
+I am a full stack web developer trying to be better at it since I had a change of career in 2020. I live in Leipzig, Germany. 
 
 I went abroad when I was a teen to pursue my studies and career. Since then I have worked in international platforms with wonderful people. It is a big challenge to live and work abroad in an early age but it helped me grow colorful personality with different aspects and positivism.
 
@@ -33,7 +34,7 @@ So I started my career as a language teacher but worked as;
 ### Vice Principal
 ### Principal
 
-I live in Leipzig, Germany. 
+
 
 <br />
 
