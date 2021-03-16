@@ -19,7 +19,6 @@ Here are some ideas to get you started:
     Full Stack Web Developer | React 
 </h1>
 
-#About me
 # Hi there, :wave:
 I am a full stack web developer trying to be better at it since I had a change of career in 2020. I live in Leipzig, Germany. 
 
