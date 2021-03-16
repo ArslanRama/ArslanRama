@@ -26,12 +26,12 @@ I went abroad when I was a teen to pursue my studies and career. Since then I ha
 
 Therefore, working in so many countries play a huge role in my personal growth as I am always open and eager to learn new stuff that I am interested about such as languages, information technology, social media, marketing, photography, web development and graphic design.
 So I started my career as a language teacher but worked as;
-## IT Tutor
-## Language Teacher
-## Toefl/Sat Trainer
-## Marketing Specialists
-## Vice Principal
-## Principal
+### IT Tutor
+### Language Teacher
+### Toefl/Sat Trainer
+### Marketing Specialists
+### Vice Principal
+### Principal
 
 I live in Leipzig, Germany. 
 
@@ -49,8 +49,7 @@ I live in Leipzig, Germany.
 
 <br />
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arslan-rama&include_all_commits=true&count_private=true&hide=contribs&theme=dark&show_icons=true" alt="Aslan's Github Stats" />
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marina-ferreira&layout=compact&theme=dark" alt="Top Languages" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Arslan-Rama&include_all_commits=true&count_private=true&hide=contribs&theme=dark&show_icons=true" alt="Aslan's Github Stats" />
 </p>
 <br />
 
