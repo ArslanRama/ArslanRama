@@ -49,7 +49,7 @@ I live in Leipzig, Germany.
 
 <br />
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arslan-Rama&include_all_commits=true&count_private=true&hide=contribs&theme=dark&show_icons=true" alt="Aslan's Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArslanRama&include_all_commits=true&count_private=true&hide=contribs&theme=dark&show_icons=true" alt="Aslan's Github Stats" />
 </p>
 <br />
 
