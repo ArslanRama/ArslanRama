@@ -30,8 +30,8 @@ So I started my career as a language teacher but worked as;
 ### Language Teacher
 ### Toefl/Sat Trainer
 ### Marketing Specialists
-### Vice Principal
-### Principal
+### School Vice Principal
+### School Principal
 
 
 
