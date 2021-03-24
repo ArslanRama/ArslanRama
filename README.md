@@ -21,5 +21,6 @@ Here are some ideas to get you started:
 
 # Hi there, :wave:
 I am a full stack web developer trying to be better at it since I had a change of career in 2020. I live in in Leipzig, Germany. 
-Working in so many countries play a huge role in my personal growth as I am always open and eager to learn new stuff that I am interested such as languages, information technology, social media, marketing, photography, web development and graphic design. 
-I’ll be open to new positions in July, 2021 as a junior web developer soon to pursue my career in programming market.
+- I love coding, it is pretty exciting to discover where my abilities can lead me. 
+- Working in different countries play a huge role in my personal growth as I am always open and eager to learn new stuff that I am interested such as languages, information technology, social media, marketing, photography, web development and graphic design. 
+- I’ll be open to new positions in July, 2021 as a junior web developer soon to pursue my career in programming market.
