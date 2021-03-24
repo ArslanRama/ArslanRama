@@ -24,3 +24,27 @@ I am a full stack web developer trying to be better at it since I had a change o
 - I love coding, it is pretty exciting to discover where my abilities can lead me. 
 - Working in different countries play a huge role in my personal growth as I am always open and eager to learn new stuff that I am interested such as languages, information technology, social media, marketing, photography, web development and graphic design. 
 ## I’ll be open to job offers by the end of  July, 2021!
+
+<br />
+
+<p align="center">
+  <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+</p>
+
+<br />
+
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arslan-rama&include_all_commits=true&count_private=true&hide=contribs&theme=dark&show_icons=true" alt="Aslan's Github Stats" />
+</p> -->
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aslan-ramazan-arslan-42447780/">
+    <img alt="230077B5" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank"/>
+  </a>
+
+</p>
