@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 I am a full stack web developer trying to be better at it since I had a change of career in 2020. I live in in Leipzig, Germany. 
 - I love coding, it is pretty exciting to discover where my abilities can lead me. 
 - Working in different countries play a huge role in my personal growth as I am always open and eager to learn new stuff that I am interested such as languages, information technology, social media, marketing, photography, web development and graphic design. 
-## I’ll be open to job offers by the end of  July, 2021
+## I’ll be open to job offers by the end of  July, 2021!
