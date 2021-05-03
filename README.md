@@ -16,11 +16,13 @@ Here are some ideas to get you started:
 <h1 align="center">
     <br>Aslan<br/>
     <img alt="Aslan" src="https://res.cloudinary.com/practicaldev/image/fetch/s--cX6HI9gA--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/j71o6fyry39eaz1eyjna.jpg" height="250px" />
-    
-</h1>
- Full Stack Web Developer | MERN 
+ 
+    Full Stack Web Developer | MERN 
 
     | MongoDb | Express.js | React.js | Node.js | HTML5 | SASS | CSS3
+    
+</h1>
+ 
 
 # Hi there, :wave:
 I am a full stack web developer since I had a change of career in 2020. I live in in Leipzig, Germany. 
