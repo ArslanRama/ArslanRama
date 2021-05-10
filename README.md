@@ -17,9 +17,10 @@ Here are some ideas to get you started:
     <br>Aslan<br/>
     <img alt="Aslan" src="https://res.cloudinary.com/practicaldev/image/fetch/s--cX6HI9gA--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/j71o6fyry39eaz1eyjna.jpg" height="250px" />
  
-    Full Stack Web Developer | MERN 
+    Front-End Web Developer | MERN 
 
-    | MongoDb | Express.js | React.js | Node.js | HTML5 | SASS | CSS3
+    | MongoDb | Express.js | React.js | Node.js 
+    | HTML5 | SASS | CSS3
     
 </h1>
  
@@ -48,8 +49,11 @@ I am a full stack web developer since I had a change of career in 2020. I live i
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aslan-ramazan-arslan-42447780/">
+  <a href="https://www.linkedin.com/in/aslan-ramazan-arslan/">
     <img alt="230077B5" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank"/>
+  </a>
+  <a href="https://www.xing.com/profile/AslanRamazan_Arslan/cv">
+    <img alt="Xing" src="https://img.shields.io/badge/xing%20-%230077B5.svg?&style=for-the-badge&logo=xing&logoColor=white" target="_blank"/>
   </a>
 
 </p>
