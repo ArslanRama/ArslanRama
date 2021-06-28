@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 
 <h1 align="center">
  <p>AGILE TOOLS<p/>
-  <img alt="Trello Board" src="https://img.shields.io/badge/Trello%20-%13E35F26.svg?&style=for-the-badge&logo=trello&logoColor=blueviolet"/>
-  <img alt="Jira" src="https://img.shields.io/badge/Jira%20-%23E10F26.svg?&style=for-the-badge&logo=jirasoftware&logoColor=blue"/>
-  <img alt="Kanban Tools" src="https://img.shields.io/badge/Kanban%20-%43E24F26.svg?&style=for-the-badge&logo=kanbantools&logoColor=pink"/>
-  <img alt="Scrum Master" src="https://img.shields.io/badge/Scrum%20-%03E14F26.svg?&style=for-the-badge&logo=scrummaster&logoColor=yellow"/>
+  <img alt="Trello" src="https://img.shields.io/badge/Trello Board%20-%231572B6.svg?&style=for-the-badge&logo=trello&logoColor=black"/>
+  <img alt="Jira" src="https://img.shields.io/badge/Jira%20-%23E10F26.svg?&style=for-the-badge&logo=jirasoftware&logoColor=black"/>
+  <img alt="Kanban" src="https://img.shields.io/badge/Kanban Tools%20-%03E24F26.svg?&style=for-the-badge&logo=kanban&logoColor=black"/>
+  <img alt="Scrum" src="https://img.shields.io/badge/Scrum%20-%23323330.svg?&style=for-the-badge&logo=scrum&logoColor=black"/>
 </h1>
  
 
