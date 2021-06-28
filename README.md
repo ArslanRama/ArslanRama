@@ -23,10 +23,12 @@ Here are some ideas to get you started:
     | HTML5 | SASS | CSS3 | Bootstrap | 
 </h1>
 
-<h1 align="center">
- <br>AGILE TOOLS<br/>
- JIRA | KANBAN | TRELLO | SCRUM 
-</h1>
+<p align="center">
+  <img alt="Jira" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="Trello" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="Kanban" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
+  <img alt="Scrum" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+</p>
  
 
 # Hi there, :wave:
