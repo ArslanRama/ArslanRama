@@ -17,10 +17,11 @@ Here are some ideas to get you started:
     <br>Aslan<br/>
     <img alt="Aslan" src="https://res.cloudinary.com/practicaldev/image/fetch/s--cX6HI9gA--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/j71o6fyry39eaz1eyjna.jpg" height="250px" />
  
-    Front-End Software & Web Developer | MERN 
+    Junior Web Developer | MERN 
 
-    | MongoDb | Express.js | React.js | Node.js 
-    | HTML5 | SASS | CSS3 | Bootstrap | 
+    | JavaScript | TypeScript | React.js | Material Ui |
+    | MongoDb | Express.js | Node.js |
+    | HTML5 | CSS3 | SASS | Bootstrap | 
 </h1>
 
 <h1 align="center">
@@ -33,9 +34,12 @@ Here are some ideas to get you started:
  
 
 # Hi there, :wave:
-I am an enthusiastic front-end web developer coming from totally a different background as linguistic. I live in in Leipzig, Germany. 
-- I love programming languages, it is pretty exciting to discover where my abilities can lead me. Although I like front-end more but I also learn back-end becauise it is fun to see what is cooked in the kitchen :heart_eyes:
-- Working in different countries play a huge role in my personal growth as I am always open and eager to learn new stuff that I am interested such as languages, web development, information technology, social media, marketing, photography and graphic design. 
+- I'm a dedicated and passionate software developer with a background in educational institutions, administration and classroom management. Team player with an eye for detail, goal-oriented and driven. 
+
+- Working in so different countries play a huge role in my personal growth as I am always open and eager to learn new tools from different cultures. 
+
+# Hobbies 
+- Ultimate Frisbee, Light Novels, Swimming, Cycling, Video Games, Internet, Coding, Manga, Photography and Science.
 
 
 <br />
