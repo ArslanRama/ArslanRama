@@ -34,12 +34,26 @@ Here are some ideas to get you started:
  
 
 # Hi there, :wave:
-- I'm a dedicated and passionate software developer with a background in educational institutions, administration and classroom management. Team player with an eye for detail, goal-oriented and driven. 
+I am a dedicated and passionate software developer with a diverse background in educational institutions, administration, and classroom management. As a team player, I possess a keen eye for detail and I am highly goal-oriented and driven.
 
-- Working in so different countries play a huge role in my personal growth as I am always open and eager to learn new tools from different cultures. 
+My experience working in various countries has greatly contributed to my personal growth, as I am consistently open and eager to learn new tools and techniques from different cultures. This exposure has enriched my problem-solving abilities and provided me with a broader perspective when approaching software development projects.
 
-# Hobbies 
-- Ultimate Frisbee, Light Novels, Swimming, Cycling, Video Games, Internet, Coding, Manga, Photography and Science.
+By combining my educational background, administrative skills, and classroom management expertise, I bring a unique set of qualities to my work as a software developer. I thrive in collaborative environments, where I can leverage my attention to detail and goal-oriented mindset to deliver high-quality solutions.
+
+Overall, my passion for software development, coupled with my international experience, makes me a well-rounded professional who is constantly evolving and seeking new challenges to further enhance my skills.
+
+## Hobbies 
+- Ultimate Frisbee
+- Light Novels
+- Swimming
+- Cycling
+- Video Games
+- Internet
+- Coding
+- Manga
+- Photography
+- Science
+
 
 
 <br />
