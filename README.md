@@ -20,8 +20,8 @@ Here are some ideas to get you started:
     Junior Web Developer | MERN 
 
     | JavaScript | TypeScript | React.js | Material Ui |
-    | MongoDb | Express.js | Node.js |
-    | HTML5 | CSS3 | SASS | Bootstrap | 
+    | MongoDb | Express.js | Node.js | Vue.js
+    | HTML5 | CSS3 | SASS | Bootstrap | Angular
 </h1>
 
 <h1 align="center">
