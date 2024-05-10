@@ -17,11 +17,11 @@ Here are some ideas to get you started:
     <br>Aslan<br/>
     <img alt="Aslan" src="https://res.cloudinary.com/practicaldev/image/fetch/s--cX6HI9gA--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/j71o6fyry39eaz1eyjna.jpg" height="250px" />
  
-    Junior Web Developer | MERN 
+    Frontend Developer
 
-    | JavaScript | TypeScript | React.js | Material Ui |
-    | MongoDb | Express.js | Node.js | Vue.js
-    | HTML5 | CSS3 | SASS | Bootstrap | Angular
+    | JavaScript | TypeScript | Angular | React.js 
+    | SQL | Express.js | Node.js | Material Ui 
+    | HTML5 | CSS3 | SASS | Bootstrap | 
 </h1>
 
 <h1 align="center">
