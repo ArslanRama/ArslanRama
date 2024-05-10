@@ -19,9 +19,9 @@ Here are some ideas to get you started:
  
     Frontend Developer
 
-    | JavaScript | TypeScript | Angular | React.js 
-    | SQL | Express.js | Node.js | Material Ui 
-    | HTML5 | CSS3 | SASS | Bootstrap | 
+    JavaScript | TypeScript | Angular | React.js 
+    SQL | Express.js | Node.js | Material Ui 
+    HTML5 | CSS3 | SASS | Bootstrap 
 </h1>
 
 <h1 align="center">
