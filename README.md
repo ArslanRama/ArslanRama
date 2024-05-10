@@ -72,7 +72,8 @@ Feel free to explore my projects and connect with me. Let's create something ama
   <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img alt="Angular" src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/angular%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 </p>
 
 <br />
@@ -86,9 +87,4 @@ Feel free to explore my projects and connect with me. Let's create something ama
   <a href="https://www.linkedin.com/in/aslan-ramazan-arslan/">
     <img alt="230077B5" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank"/>
   </a>
-  <a href="https://www.xing.com/profile/AslanRamazan_Arslan/cv">
-    <img alt="Xing" src="https://www.ssi-schweiz.ch/wp-content/uploads/2017/02/04_6-Col-box-XING_logo.jpg" width="100" 
-     height="28"target="_blank"/>
-  </a>
-
 </p>
